@@ -10,10 +10,11 @@ footer{
 }
 
 section{
+    min-width: 300px;
+    max-width: 700px;
     background-color: white;
     padding: 10px;
     border-radius: 10px;
-    width: 500px;
     margin:auto;
     text-align: left;
     
